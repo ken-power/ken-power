@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can find a summary of many of these projects, and more, on my [GitHub Pages](https://ken-power.github.io).
+
 <!--
 **ken-power/ken-power** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
